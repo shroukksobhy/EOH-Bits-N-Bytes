@@ -1,1 +1,1 @@
-# EOH-hackathon-Bits-N-Bytes
+# EOH-Bits-N-Bytes
